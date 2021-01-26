@@ -1,0 +1,6 @@
+.DS_Store
+.idea/*
+.idea/vcs.xml
+/backend/.idea/*
+/backend/*.iml
+/backend/.mvn
